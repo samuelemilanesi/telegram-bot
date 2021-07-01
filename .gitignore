@@ -1,2 +1,7 @@
 env/
 secrets.py
+__pycache__/*
+local_*
+*.session
+*.session-journal
+__*
